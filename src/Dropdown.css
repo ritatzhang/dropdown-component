@@ -1,0 +1,48 @@
+.dropdown-group {
+  width: 300px;
+}
+.dropdown-header {
+  font-size: 20px;
+}
+
+.main-button {
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  text-overflow: ellipsis;
+}
+
+.btn-group {
+  width: 300px;
+  margin: auto;
+  display: table;
+}
+
+.btn-group-child {
+  display: table-cell;
+  width: 100%;
+  display: block;
+}
+
+.item-btn-group {
+  border: 1px solid black;
+  max-height: 70px;
+  overflow-y: auto;
+}
+
+.item-btn-group button {
+  border: none;
+  background-color: white;
+}
+
+.half-btn-group-child {
+  width: 50%;
+}
+
+.alignleft {
+  float: left;
+}
+
+.alignright {
+  float: right;
+}
