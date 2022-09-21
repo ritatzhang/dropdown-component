@@ -1,6 +1,6 @@
 # Using the dropdown component
-
-- see App.js for an example [vegetables are multi-select, fruits are single-select]
+- final dropdown component is src/Dropdown.js with styling in src/Dropdown.css
+- see src/App.js for an example [vegetables are multi-select, fruits are single-select]
 - the Dropdown components requires 3 parameters/props: boolean for multi-select, the title of the dropdown, and an array of items.
 - header, width of dropdown, and most other adjustments are customizable using classnames defined in the Dropdown class
 
